@@ -1,1 +1,0 @@
-# desenvolvimento_joy
