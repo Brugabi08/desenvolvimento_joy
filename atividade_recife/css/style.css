@@ -13,9 +13,6 @@ header {
     padding: 1px;
     margin-bottom: 20px;
 }
-nav {
-     /* background-color: beige;*/
-}
 
 ul {
     display: flex;
@@ -58,7 +55,10 @@ main h1{
     margin-left: 650px;
 }  
   /*footer*/
+footer h3{
+    color:  rgb(82, 35, 1);
+}
 footer ul li{
-    text-decoration: blue;
+    list-style-type: none;
 }
   
